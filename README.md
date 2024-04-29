@@ -23,7 +23,12 @@ The CNN model utilizes multiple convolutional and max pooling layers, ReLU activ
 
 ## Results
 
-The model distinguishes between marine and non-marine sounds with high precision, as indicated by the confusion matrix and ROC curve analysis. These results demonstrate the model's potential applicability in various research fields.
+The model distinguishes between marine and non-marine sounds with high precision, as indicated by the confusion matrix and ROC curve analysis. These results demonstrate the model's potential applicability in various research fields. Our model achieves an accuracy of 99.06% and an F1-score of 0.99. 
+
+![Learning Curve](result-visualizations/learning-curve.png)
+
+![Confusion Matrix](result-visualizations/confusion-matrix.png)
+
 
 ### Visuals in Results
 
