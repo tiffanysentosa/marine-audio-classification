@@ -27,12 +27,11 @@ The model distinguishes between marine and non-marine sounds with high precision
 
 ![Learning Curve](result-visualizations/learning-curve.png)
 
-![Confusion Matrix](result-visualizations/confusion-matrix.png)
-
 
 ### Visuals in Results
 
 The confusion matrix and ROC curve graphics are integral to the results section. These visuals, including `ROCoutput.png` and `confusion-matrix.png`, showcase the model's performance.
+![Confusion Matrix](result-visualizations/confusion-matrix.png)
 
 ## Directions for Use
 
